@@ -6,5 +6,5 @@ if (age>=1 && age<5){
 }else if (age>= 18 && age< 25){
     console.log("Youth");
 }else {
-    console.log(" Elderly");
+    console.log(" Very old");
 }
